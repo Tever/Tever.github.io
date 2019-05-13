@@ -1,0 +1,93 @@
+#wrapper {
+width:1300px;
+margin:0px auto;
+background-color:#003333;
+height:1002px;
+}
+* {
+margin: 0;
+}
+#otctup {
+padding-top:60px;
+}
+table {
+padding-left:300px;
+color:ffff99;
+}
+#main-tekts{
+font-family:Arial;
+font-size:25px;
+color:ffff99;
+}
+#image{
+padding-left:220px;
+margin:0;
+padding:0;
+}
+#logo {
+margin-left:250px;
+}
+#vverh1 {
+position: fixed;
+bottom: 20px;
+width: 150px;
+height: 50px;
+}
+a {
+color:ffff99;
+}
+#text{
+padding-left:250px;
+padding-right:250px;
+font-family:Arial;
+font-size:25px;
+color:ffff99;
+}
+#text2{
+padding-left:250px;
+padding-right:250px;
+font-family:Arial;
+font-size:25px;
+color:ffff99;
+}
+#fxc {
+width: 195px;
+height:660px;
+right: 0px;
+top: 0px;
+background-color:#006666;
+position: fixed;
+}
+#fxs {
+width: 195px;
+height:660px;
+background-color:#006666;
+position: fixed;
+left: 0px;
+top: 0px;
+}
+table {
+padding-top:60px;
+}
+#images1{
+display:flex;
+flex-direction:row;
+justify-content:space-around;
+margin:0 auto;
+padding-right:250px;
+padding-left:250px;
+}
+#im{
+margin:0 auto;
+padding-left:900px;
+}
+#text3{
+padding-right:200px;
+padding-left:250px;
+font-family:Arial;
+font-size:25px;
+color:ffff99;
+}
+Большие скидки на все машины Машины поставляются прямо с завода
+Гарантия качества машины 1,5 года.
+Все права не зарегстрированны

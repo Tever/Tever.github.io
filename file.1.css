@@ -1,0 +1,59 @@
+#otctup {
+padding-top:60px;
+}
+#wrapper {
+	width:1300px;
+	margin:0px auto;
+	background-color:003333;
+}
+#logo {
+margin-left:250px;
+}	
+* {
+margin: 0;
+padding: 0;
+}
+#main-tekts{
+font-family:Arial;
+font-size:25px;
+color:ffff99;
+}
+#image{
+	text-align:center;
+}
+#vverh1 {
+	position: fixed;
+	bottom: 20px;
+	width: 150px;
+	height: 50px;
+}
+#text{
+padding-left:250px;
+padding-right:250px;
+font-family:Arial;
+font-size:25px;
+color:ffff99;
+}
+#text2{
+padding-left:250px;
+padding-right:250px;
+font-family:Arial;
+font-size:25px;
+color:ffff99;
+}
+#fxc {
+	width: 200px;
+	height:660px;
+	right: 0px;
+	top: 0px;
+	background-color:#006666;
+	position: fixed;
+}
+#fxs {
+	width: 200px;
+	height:660px;
+	background-color:#006666;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}
